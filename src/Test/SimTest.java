@@ -6,6 +6,6 @@ public class SimTest {
     public void SimTest(){
         Simulation sim = new Simulation();
 
-        sim.runSimulation(2,100);
+        sim.runSimulation(2,1000000);
     }
 }
